@@ -1,5 +1,11 @@
 # @backstage/catalog-model
 
+## 1.2.0-next.1
+
+### Minor Changes
+
+- d51668882d: Adds the tRPC API type to the catalog.
+
 ## 1.1.6-next.0
 
 ### Patch Changes

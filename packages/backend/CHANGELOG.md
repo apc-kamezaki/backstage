@@ -1,5 +1,34 @@
 # example-backend
 
+## 0.2.80-next.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-lighthouse-backend@0.1.0-next.0
+  - @backstage/catalog-model@1.2.0-next.1
+  - @backstage/plugin-kubernetes-backend@0.9.3-next.2
+  - @backstage/plugin-kafka-backend@0.2.35-next.2
+  - @backstage/plugin-proxy-backend@0.2.36-next.2
+  - @backstage/plugin-events-node@0.2.3-next.2
+  - example-app@0.2.80-next.2
+  - @backstage/catalog-client@1.3.1-next.1
+  - @backstage/plugin-adr-backend@0.2.7-next.2
+  - @backstage/plugin-auth-backend@0.17.5-next.2
+  - @backstage/plugin-badges-backend@0.1.36-next.2
+  - @backstage/plugin-catalog-backend@1.7.2-next.2
+  - @backstage/plugin-catalog-node@1.3.3-next.2
+  - @backstage/plugin-code-coverage-backend@0.2.8-next.2
+  - @backstage/plugin-jenkins-backend@0.1.32-next.2
+  - @backstage/plugin-playlist-backend@0.2.5-next.2
+  - @backstage/plugin-scaffolder-backend@1.11.0-next.2
+  - @backstage/plugin-tech-insights-backend@0.5.8-next.2
+  - @backstage/plugin-techdocs-backend@1.5.3-next.2
+  - @backstage/plugin-todo-backend@0.1.39-next.2
+  - @backstage/plugin-events-backend@0.2.3-next.2
+  - @backstage/plugin-graphql-backend@0.1.32-next.2
+  - @backstage/plugin-scaffolder-backend-module-rails@0.4.10-next.2
+
 ## 0.2.80-next.1
 
 ### Patch Changes
